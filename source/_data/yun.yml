@@ -1,3 +1,5 @@
+mode: auto
+
 # UI
 banner:
   enable: true
